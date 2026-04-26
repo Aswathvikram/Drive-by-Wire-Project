@@ -22,7 +22,8 @@ Includes:
 - Circuit diagrams (Driver and Vehicle sides)
 - Flow diagrams explaining system logic
 - Project details and final documentation
-- Presentation files 
+- Presentation files
+- Challenges faced and solutions
 
 ---
 
