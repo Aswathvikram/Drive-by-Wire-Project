@@ -134,7 +134,6 @@ void loop()
 
     Serial.print("Accel %    : ");
     Serial.println(txData.accelPercent,1);
-
     Serial.print("Brake %    : ");
     Serial.println(txData.brakePercent,1);
   }
